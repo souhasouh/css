@@ -1,0 +1,75 @@
+*{
+
+margin:0px;
+
+
+}
+ body
+ {font-family: "times new roman",serif;
+    font-size: 16px;
+ color: black;
+ font-weight: normal;
+ font-style: normal;
+ 
+
+
+
+ }
+ header
+ {
+    background-color: rgb(179, 154, 124);
+    width: 1000 px;
+ margin: auto;}
+ .img_center {
+   margin: auto;
+   display: block;
+
+ }
+ header h1{
+   text-align:center;
+   margin: 10px 10px; 
+   font-style:italic ;
+   color :black;
+   font-size: 40px;
+
+ } 
+ #ISAAS{
+   width: 100 px0;
+
+ }
+ nav{
+   width:60%;
+   margin: auto;
+   text-align: center;
+   
+ }
+ nav{
+   display: inline-block;
+   width: 100 px;
+   text-decoration: none;
+   font-size: 16 px;
+   padding: 10 px;
+   margin: 10 px;
+   border: 1 px solid white ;
+   color: black;border-radius: 10 px ;
+ }
+
+
+
+
+
+
+
+ footer{
+width: 1000px;
+background-color:rgb(179, 154, 124) ;
+margin: auto;
+ }
+ footer>p
+ {color:black ;
+font-family:'Times New Roman', Times, serif ;
+text-align: center;
+font-weight: normal;
+ font-style: normal;
+ font-size: 10px;
+ }
